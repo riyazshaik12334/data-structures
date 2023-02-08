@@ -1,0 +1,23 @@
+#include<stdio.h>
+#include<conio.h>
+
+ main()
+{
+int i,a[10] = {10,20,30,40,50,60,70,80,90,100};
+int sum=1;
+clrscr();
+for(i=0;i<10;i++)
+{
+sum = sum*a[i];
+}
+for(i=0;i<=10;i++)
+printf("%d",sum);
+
+//printf("sum of aray of element is:%d",sum);
+
+getch();
+return 0;
+}
+
+output:
+sum of aray of element is : 550
