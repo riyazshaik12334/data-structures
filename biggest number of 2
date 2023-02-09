@@ -16,6 +16,4 @@ return 0;
 }
  }
  
- output:
- enter the number b: 12
- b is the biggest number.
+ 
