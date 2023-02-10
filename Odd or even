@@ -14,8 +14,3 @@ printf("%d is odd",n);
 getch();
 return 0;
 }
-
-
-Output:
-enter the number: 7
-The number is odd.
