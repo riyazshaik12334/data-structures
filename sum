@@ -12,7 +12,3 @@ printf("sum of two numbers are:%d",sum);
 getch();
 return 0;
 }
-
-output:
-enter the value of b: 20
-sum of two numbers are 30.
