@@ -19,5 +19,3 @@ getch();
 return 0;
 }
 
-output:
-sum of aray of element is : 550
