@@ -12,7 +12,3 @@ else
 printf("eligible to vote");
 getch();
 }
-
-output:
-enter the age: 24
-eligible to vote.
